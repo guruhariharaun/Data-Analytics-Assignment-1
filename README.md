@@ -21,6 +21,6 @@ This dataset provides details about international Traffic of the Cargo and Passe
 <h4 align="center">
   This assignment is fully caffeinated ☕ by <a href="https://github.com/guruhariharaun">Guru HariHaraun</a>
 </h4>
+<br><br><br><br>
 
-
-![city](http://guruhariharaun.ml/images/GitHubCity.png)
+![city](https://github.com/guruhariharaun/Data-Analytics-Assignment-1/blob/master/src/GitHubCity.png)
